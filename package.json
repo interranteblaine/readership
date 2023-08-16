@@ -40,6 +40,7 @@
     "@vitest/coverage-c8": "~0.32.0",
     "@vitest/ui": "~0.32.0",
     "aws-cdk": "^2.91.0",
+    "aws-sdk": "^2.1437.0",
     "cypress": "^12.16.0",
     "esbuild": "^0.17.17",
     "eslint": "~8.15.0",
